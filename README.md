@@ -13,6 +13,10 @@ L’obiettivo business è supportare le compagnie assicurative nella:
     • definizione dei premi assicurativi
     • gestione del rischio
     • identificazione dei clienti ad alto costo sanitario
+
+
+    
+
     
  Panoramica del Progetto
  
